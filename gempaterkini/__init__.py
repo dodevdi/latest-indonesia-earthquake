@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
+description = 'To get the latest earthquake in Indonesia from BMKG.co.id'
+
 import gempaterkini
 
 

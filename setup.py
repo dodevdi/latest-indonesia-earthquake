@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 
-    name="latestearthquake-ind",
+    name="latestearthquake-ind-2",
 
-    version="0.1",
+    version="0.2",
 
     author="dodi ackbar",
 
