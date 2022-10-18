@@ -1,7 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
 
-class GempaTerkini:
+"""
+Method = Fungsi
+Field / Atrribute = Variabel
+"""
+
+class Bencana:
+    pass
+
+class GempaTerkini(Bencana):
     def __init__(self):
         self.description = 'To get the latest earthquake in Indonesia from BMKG.co.id'
         self.result = None
